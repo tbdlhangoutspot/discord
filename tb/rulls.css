@@ -1,5 +1,5 @@
 body {
-    background-image: url("/tb/photos/Cotton\ Candy.jpg");
+    background-image: url("/tb/photos/Cotton\ Candy.jpg")=raw;
     display: flex;
     justify-content: center;
     align-items: center;
