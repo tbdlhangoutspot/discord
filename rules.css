@@ -19,3 +19,11 @@ p{
     text-align: center;
     font-size: 33px;
 }
+.video {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    padding-left: 20px;
+    padding-top: 38px;
+    border-radius: 20px;
+}
