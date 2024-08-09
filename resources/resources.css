@@ -14,12 +14,23 @@ h1 {
     width: 100%;
     margin-bottom: 20px; /* Adjust the spacing between the heading and the button */
 }
-p{
+p {
     font-family: 'Open-Dyslexic', sans-serif;
     text-align: center;
-    font-size: 33px;
+    font-size: 25px;
 }
-.back{
+.twinkllogo {
+    align-self: center;
+    height: 100px;
+    width: auto;
+}
+.twinkl {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px; /* Adjust the spacing between the heading and the button */
+}
+.back {
     font-family: 'Open-Dyslexic', sans-serif;
     text-align: center;
     font-size: 23px;
